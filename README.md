@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Caio Corrêa
 
 - 💻 Skills 💻
+- 
   HTML.CSS.Javascript
   React.js.Node.js.SQL Server
   
