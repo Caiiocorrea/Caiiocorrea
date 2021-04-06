@@ -2,11 +2,19 @@
 
 - 💻 Skills 💻
 - 
-  HTML.CSS.Javascript
-  React.js.Node.js.SQL Server
+  HTML
+  CSS
+  Javascript
+  React.js
+  React Native
+  Node.js
+  SQL Server
   
 - 🌱 I’m currently learning
-  Git.Figma.Github
+- 
+  Git
+  Figma
+  Github
 
 
 <!---
