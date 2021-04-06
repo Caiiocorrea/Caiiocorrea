@@ -10,10 +10,9 @@
 - SQL Server
   
 - 🌱 I’m currently learning
-- 
-  Git
-  Figma
-  Github
+ Git
+ Figma
+ Github
 
 
 <!---
