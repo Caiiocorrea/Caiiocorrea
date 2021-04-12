@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Caio Corrêa
+# 👋 Hi, I’m Caio Corrêa
 
-- 💻 Skills 💻
+# 💻 Skills 💻
 - HTML
 - CSS
 - Javascript
@@ -9,7 +9,7 @@
 - Node.js
 - SQL Server
   
-- 🌱 I’m currently learning
+# 🌱 I’m currently learning
 - Git
 - Figma
 - Github
