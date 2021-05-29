@@ -8,11 +8,11 @@
 - React Native
 - Node.js
 - SQL Server
+- Github
   
 # 🌱 I’m currently learning
-- Git
 - Figma
-- Github
+
 
 <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-241ab5123/">Linkedin</a>
 
