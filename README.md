@@ -3,16 +3,22 @@
 # 💻 Skills 💻
 - HTML
 - CSS
-- Javascript
-- React.js
-- React Native
+- PM2
+- Jest
+- Figma
+- MySql
+- Github 
 - Node.js
+- Mongodb
+- Nest.js
+- React.js
 - SQL Server
-- Github
+- Javascript
+- Typescript
+- React Native
   
 # 🌱 I’m currently learning
-- Figma
-
+- DevOPS
 
 <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-241ab5123/">Linkedin</a>
 
