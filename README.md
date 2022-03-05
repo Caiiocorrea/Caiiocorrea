@@ -8,6 +8,7 @@
 - Figma
 - MySql
 - Github 
+- DevOPS
 - Node.js
 - Mongodb
 - Nest.js
@@ -17,9 +18,6 @@
 - Typescript
 - React Native
   
-# 🌱 I’m currently learning
-- DevOPS
-
 <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-241ab5123/">Linkedin</a>
 
 
