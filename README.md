@@ -2,7 +2,7 @@
 
 # 💻 Skills 💻
 
-*Frontend
+* Frontend *
 - HTML
 - CSS
 - React
