@@ -1,10 +1,8 @@
-# 👋 Hi, I’m Caio Corrêa
+# 👋 Olá! Eu sou o Caio Corrêa
 
-# 💻 Skills 💻
+# 💻 skills 💻
 
-* Frontend *
-- HTML
-- CSS
+# Frontend
 - React
 - Angular
 
@@ -20,6 +18,8 @@
 # Linguagens
 - Javascript
 - Typescript
+- HTML
+- CSS
 
 # Mobile
 - React Native
