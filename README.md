@@ -1,23 +1,35 @@
 # 👋 Hi, I’m Caio Corrêa
 
 # 💻 Skills 💻
+
+# Frontend
 - HTML
 - CSS
-- PM2
-- Jest
-- Figma
-- MySql
-- Github 
-- DevOPS
+- React
+- Angular
+
+# Backend
 - Node.js
-- Mongodb
 - Nest.js
-- React.js
-- SQL Server
+
+# Banco de dados
+- Sql Server
+- My SQL
+- Mongodb
+
+# Linguagens
 - Javascript
 - Typescript
+
+# Mobile
 - React Native
-  
+
+# DevOPS
+- PM2
+- AWS
+- Google Cloud
+
+
 <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-241ab5123/">Linkedin</a>
 
 
