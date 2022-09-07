@@ -7,13 +7,14 @@
 - Angular
 
 # Backend
-- Node.js
-- Nest.js
+- NodeJS
+- Fã do NestJS
 
 # Banco de dados
 - Sql Server
-- My SQL
+- MySQL
 - Mongodb
+- Redis
 
 # Linguagens
 - Javascript
@@ -26,9 +27,7 @@
 
 # DevOPS
 - PM2
-- AWS
-- Google Cloud
-
+- NGINX
 
 <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-241ab5123/">Linkedin</a>
 
