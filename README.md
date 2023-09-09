@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Caio Corrêa
+# 👋 Hello! I am Caio CorrêaHello! I am Caio Corrêa
 
 # 💻 skills 💻
 
