@@ -7,20 +7,22 @@
 - Angular
 
 # Backend
-- NodeJS
 - Fã do NestJS
+- NodeJS
+- HapiJS
+- C#
 
 # Banco de dados
 - Sql Server
-- MySQL
+- PostgreSQL
 - Mongodb
 - Redis
+- MySQL
 
 # Linguagens
 - Javascript
 - Typescript
-- HTML
-- CSS
+- C#
 
 # Mobile
 - React Native
@@ -28,6 +30,8 @@
 # DevOPS
 - PM2
 - NGINX
+- AWS
+- DOCKER
 
 <a href="https://www.linkedin.com/in/caio-corr%C3%AAa-241ab5123/">Linkedin</a>
 
