@@ -12,7 +12,7 @@
 - HapiJS
 - C#
 
-# Banco de dados
+# Databases
 - Sql Server
 - PostgreSQL
 - Mongodb
