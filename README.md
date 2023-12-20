@@ -10,6 +10,7 @@
 - Fã do NestJS
 - NodeJS
 - HapiJS
+- ExpressJS
 - C#
 
 # Databases
